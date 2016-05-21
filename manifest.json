@@ -8,8 +8,6 @@
  "description": "Shows edited or deleted Reddit comments when clicked",
  "homepage_url": "http://uneddit.com",
  "icons": {
-     "16": "icon-16.png",
-     "48": "icon-48.png",
      "128": "icon-128.png" },
  "permissions": [
      "tabs",
