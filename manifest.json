@@ -4,7 +4,7 @@
  "default_icon": "icon-128.png",
  "default_title": "Uneddit"
  },
- "name": "removeddit",
+ "name": "Uneddit",
  "description": "Shows edited or deleted Reddit comments when clicked",
  "homepage_url": "http://removeddit.com",
  "icons": {
