@@ -1,1 +1,1 @@
-void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src', '//uneddit.com/phase_one');document.body.appendChild(e)})());
+ document.location = document.URL.replace('reddit.com','removeddit.com');
