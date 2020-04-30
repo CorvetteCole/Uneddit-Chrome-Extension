@@ -1,3 +1,6 @@
+# ARCHIVED
+Development has ceased on this project. You are welcome to fork it but honestly there is nothing of value here
+
 # Uneddit-Chrome-Extension
 The Uneddit chrome (and Firefox) extension for Reddit! Now open source!
 
